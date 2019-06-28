@@ -18,15 +18,16 @@
 .container.links {
   margin: 30px auto;
 }
-.row.curriculo {
-  margin: 30px auto;
-}
 h1 {
   font-size: 60px;
   font-weight: 710;
 }
 a {
   display: inline-block;
+}
+.titulo {
+}
+.subtitulo {
 }
 svg {
   width: 50px;
@@ -43,15 +44,11 @@ svg:hover {
   opacity: 0.35;
 }
 a.link {
-  margin: 0 20px;
+  margin: 20px 20px;
 }
-.row {
+.social {
   padding: 15px;
 }
-/* .col,
-.col-12 {
-  margin: 30px 0;
-} */
 .contato p {
   margin-top: 5px;
 }
@@ -59,5 +56,31 @@ a.link {
   color: #2c3e50;
   display: block;
   margin-top: 30px;
+}
+/****************************
+# MEDIA QUERIES
+****************************/
+@media screen and (max-width: 720px) {
+  svg {
+    width: 30px;
+    height: 30px;
+  }
+  .tools svg {
+    width: 20px;
+    margin: 5px 15px;
+    opacity: 0.35;
+  }
+  .contato a.email-text {
+    margin-top: 10px;
+  }
+  .titulo {
+    font-size: 40px;
+  }
+  .subtitulo {
+    font-size: 14px;
+  }
+  .container.header {
+    margin-bottom: 30px;
+  }
 }
 </style>

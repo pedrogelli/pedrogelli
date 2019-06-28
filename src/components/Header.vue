@@ -2,8 +2,8 @@
   <div class="container header">
     <div class="row">
       <div class="col">
-        <h1>Pedro Gelli</h1>
-        <h6>Designer Gráfico & Web Designer</h6>
+        <h1 class="titulo">Pedro Gelli</h1>
+        <h6 class="subtitulo">Designer Gráfico & Web Designer</h6>
       </div>
     </div>
   </div>

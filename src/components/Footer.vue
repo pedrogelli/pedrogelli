@@ -3,6 +3,20 @@
     <div class="row">
       <div class="col-12">
         <a
+          href="#"
+          target="_blank"
+          class="link"
+          data-toggle="tooltip"
+          data-placement="top"
+          title="Currículo.pdf"
+        >
+          <svg class="icon">
+            <use
+              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#file-pdf-regular"
+            ></use>
+          </svg>
+        </a>
+        <a
           href="mailto:pedrogelli@gmail.com"
           target="_blank"
           class="link"

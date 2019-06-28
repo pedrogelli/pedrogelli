@@ -225,24 +225,6 @@
         </svg>
       </div>
     </div>
-    <div class="row curriculo">
-      <div class="col">
-        <a
-          href="#"
-          target="_blank"
-          class="mx-auto"
-          data-toggle="tooltip"
-          data-placement="top"
-          title="Currículo.pdf"
-        >
-          <svg class="icon">
-            <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#file-pdf-regular"
-            ></use>
-          </svg>
-        </a>
-      </div>
-    </div>
   </div>
 </template>
 
