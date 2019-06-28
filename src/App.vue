@@ -16,7 +16,7 @@
   margin: 60px auto;
 }
 .container.links {
-  margin: 30px auto;
+  margin: 30px auto 60px auto;
 }
 h1 {
   font-size: 60px;
@@ -43,6 +43,10 @@ svg:hover {
   margin: 0 10px;
   opacity: 0.35;
 }
+.contato svg {
+  width: 30px;
+  height: 30px;
+}
 a.link {
   margin: 20px 20px;
 }
@@ -55,7 +59,6 @@ a.link {
 .contato a.email-text {
   color: #2c3e50;
   display: block;
-  margin-top: 30px;
 }
 /****************************
 # MEDIA QUERIES
@@ -67,7 +70,7 @@ a.link {
   }
   .tools svg {
     width: 20px;
-    margin: 5px 15px;
+    margin: 5px 10px;
     opacity: 0.35;
   }
   .contato a.email-text {
@@ -81,6 +84,12 @@ a.link {
   }
   .container.header {
     margin-bottom: 30px;
+  }
+  a.link {
+    margin: 10px 20px;
+  }
+  .container.links {
+    margin: 30px auto 30px auto;
   }
 }
 </style>
