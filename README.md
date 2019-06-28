@@ -1,29 +1,16 @@
-# pedrogelli
+# Pedro Gelli - Portfolio Graphic and Web Designer
 
-## Project setup
-```
-npm install
-```
+Projeto feito para praticar meu aprendizado em [Vue.js](https://vuejs.org/).
+É um projeto simples, eu perdi todo meu portifólio e estou tentando reconstruir. Apenas inclui os links das plataformas online onde exponho meus trabalhos. Planejo utilizar esse projeto inicial como base para um site com mais conteúdo, utilizando o Vue.js e o Git afim de ter mais prática com as ferramentas. Nesse projeto também aprendi como criar sprites em SVG.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Características
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Projeto criado com Vue Cli 3 utilizando [Node.js](https://nodejs.org/en/)
 
-### Run your tests
-```
-npm run test
-```
+## Dependências
 
-### Lints and fixes files
-```
-npm run lint
-```
+• [Jquery](https://jquery.com/) - Executa as tool tips dos links.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+• [Typeface Open Sans](https://github.com/KyleAMathews/typefaces/tree/master/packages/open-sans)- Fonte padrão.
+
+• [Bootstrap CDN](https://getbootstrap.com/)
