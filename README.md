@@ -5,11 +5,11 @@ Projeto feito para praticar meu aprendizado em [Vue.js](https://vuejs.org/).
 
 ## Características
 
-Projeto criado com Vue Cli 3 utilizando [Jquery](https://nodejs.org/en/)
+Projeto criado com Vue Cli 3 utilizando [Node.js](https://nodejs.org/en/)
 
 ## Dependências
 
-• [Node.js](https://jquery.com/) - Executa as tool tips dos links.
+• [Jquery](https://jquery.com/) - Executa as tool tips dos links.
 
 • [Typeface Open Sans](https://github.com/KyleAMathews/typefaces/tree/master/packages/open-sans)- Fonte padrão.
 
