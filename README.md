@@ -10,5 +10,7 @@ Projeto criado com Vue Cli 3 utilizando Node.js
 ## Dependências
 
 • Jquery - Executa as tool tips dos links.
+
 • Typeface Open Sans - Fonte padrão.
+
 • Bootstrap CDN.
