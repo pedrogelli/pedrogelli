@@ -10,7 +10,7 @@
           data-placement="top"
           title="Behance"
         >
-          <svg class="icon">
+          <svg class="icon behance">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#behance"
             ></use>
@@ -24,7 +24,7 @@
           data-placement="top"
           title="DeviantArt"
         >
-          <svg class="icon">
+          <svg class="icon deviantart">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#deviantart"
             ></use>
@@ -38,7 +38,7 @@
           data-placement="top"
           title="GitHub"
         >
-          <svg class="icon">
+          <svg class="icon github">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#github"
             ></use>
@@ -52,7 +52,7 @@
           data-placement="top"
           title="Stack OverFlow"
         >
-          <svg class="icon">
+          <svg class="icon stackoverflow">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#stackoverflow"
             ></use>
@@ -66,7 +66,7 @@
           data-placement="top"
           title="Youtube"
         >
-          <svg class="icon">
+          <svg class="icon youtube">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#youtube"
             ></use>
@@ -80,7 +80,7 @@
           data-placement="top"
           title="Vimeo"
         >
-          <svg class="icon">
+          <svg class="icon vimeo">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#vimeo"
             ></use>
@@ -94,7 +94,7 @@
           data-placement="top"
           title="SoundCloud"
         >
-          <svg class="icon">
+          <svg class="icon soundcloud">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#soundcloud"
             ></use>
@@ -108,7 +108,7 @@
           data-placement="top"
           title="LinkedIn"
         >
-          <svg class="icon">
+          <svg class="icon linkedin">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#linkedin"
             ></use>
@@ -122,7 +122,7 @@
           data-placement="top"
           title="Twitter"
         >
-          <svg class="icon">
+          <svg class="icon twitter">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#twitter"
             ></use>
@@ -136,7 +136,7 @@
           data-placement="top"
           title="Instagram"
         >
-          <svg class="icon">
+          <svg class="icon instagram">
             <use
               xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#instagram"
             ></use>

@@ -2,6 +2,7 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
+import "./assets/main.css";
 require("typeface-open-sans");
 
 Vue.config.productionTip = false;
