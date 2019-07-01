@@ -12,7 +12,7 @@
         >
           <svg class="icon">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#file-pdf-regular"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#file-pdf-regular"
             ></use>
           </svg>
         </a>
@@ -26,7 +26,7 @@
         >
           <svg class="icon">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#email"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#email"
             ></use>
           </svg>
         </a>
@@ -40,7 +40,7 @@
         >
           <svg class="icon">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#phone"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#phone"
             ></use>
           </svg>
         </a>

@@ -12,7 +12,7 @@
         >
           <svg class="icon behance">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#behance"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#behance"
             ></use>
           </svg>
         </a>
@@ -26,7 +26,7 @@
         >
           <svg class="icon deviantart">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#deviantart"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#deviantart"
             ></use>
           </svg>
         </a>
@@ -40,7 +40,7 @@
         >
           <svg class="icon github">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#github"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#github"
             ></use>
           </svg>
         </a>
@@ -54,7 +54,7 @@
         >
           <svg class="icon stackoverflow">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#stackoverflow"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#stackoverflow"
             ></use>
           </svg>
         </a>
@@ -68,7 +68,7 @@
         >
           <svg class="icon youtube">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#youtube"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#youtube"
             ></use>
           </svg>
         </a>
@@ -82,7 +82,7 @@
         >
           <svg class="icon vimeo">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#vimeo"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#vimeo"
             ></use>
           </svg>
         </a>
@@ -96,7 +96,7 @@
         >
           <svg class="icon soundcloud">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#soundcloud"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#soundcloud"
             ></use>
           </svg>
         </a>
@@ -110,7 +110,7 @@
         >
           <svg class="icon linkedin">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#linkedin"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#linkedin"
             ></use>
           </svg>
         </a>
@@ -124,7 +124,7 @@
         >
           <svg class="icon twitter">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#twitter"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#twitter"
             ></use>
           </svg>
         </a>
@@ -138,7 +138,7 @@
         >
           <svg class="icon instagram">
             <use
-              xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#instagram"
+              xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#instagram"
             ></use>
           </svg>
         </a>
@@ -148,79 +148,87 @@
       <div class="col">
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#arduino"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#arduino"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#jquery"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#jquery"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#vuejs"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#vuejs"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#bootstrap"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#bootstrap"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#html"
-          ></use>
-        </svg>
-        <svg class="icon">
-          <use xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#css"></use>
-        </svg>
-        <svg class="icon">
-          <use xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#js"></use>
-        </svg>
-        <svg class="icon">
-          <use xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#php"></use>
-        </svg>
-        <svg class="icon">
-          <use xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#git"></use>
-        </svg>
-        <svg class="icon">
-          <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#windows"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#html"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#apple"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#css"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#adobe"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#js"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#linux"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#php"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#figma"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#git"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#3dsmax"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#windows"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#ableton"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#apple"
           ></use>
         </svg>
         <svg class="icon">
           <use
-            xlink:href="@/assets/pedrogelli-portifolio-sprite.svg#terragen"
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#adobe"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#linux"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#figma"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#3dsmax"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#ableton"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#terragen"
           ></use>
         </svg>
       </div>
