@@ -158,6 +158,11 @@
         </svg>
         <svg class="icon">
           <use
+            xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#wordpress"
+          ></use>
+        </svg>
+        <svg class="icon">
+          <use
             xlink:href="@/assets/img/pedrogelli-portifolio-sprite.svg#vuejs"
           ></use>
         </svg>
